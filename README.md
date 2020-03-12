@@ -1,1 +1,10 @@
-# node-api-rest
+
+## Project setup
+```
+npm install
+```
+
+### Run
+```
+node server.js
+```
